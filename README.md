@@ -2,7 +2,7 @@
 
 ## I'm a Senior Architect on a path to Full Stack Developer
 
-<img align="right" width=300px height=160px alt="side_sticker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHA4MmVkMGN2dmkxaHFtY2gxejVhYXFzNXdraGF4ejBtNTR1OXNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" />
+<img align="right" width=260px height=115px alt="side_sticker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHA4MmVkMGN2dmkxaHFtY2gxejVhYXFzNXdraGF4ejBtNTR1OXNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" />
 
 - I've finished my masters in **Architecture** at **Technical University of Vienna**
 - Currently working as **Senior Architect** at **Baumschlager Eberle Architekten**
