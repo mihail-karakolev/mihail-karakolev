@@ -1,14 +1,15 @@
-# Hi, I'm Mihail👋 
+## Hi, I'm Mihail👋
 
 ## I'm a Senior Architect on a path to Full Stack Developer
 
-<img align="right" width=260px height=115px alt="side_sticker" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHA4MmVkMGN2dmkxaHFtY2gxejVhYXFzNXdraGF4ejBtNTR1OXNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" />
-
 - I've finished my masters in **Architecture** at **Technical University of Vienna**
 - Currently working as **Senior Architect** at **Baumschlager Eberle Architekten**
-- Currently studying **Software Engineering Programm** with Python
-at **SoftUni Bulgaria**
+- Currently studying **Software Engineering Programm** with Python at **SoftUni Bulgaria**
 - Love solving building construction problems -> hope to embrace them in the informatics as well
+
+---
+
+<img align="middle" width=1000px height=500px src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHA4MmVkMGN2dmkxaHFtY2gxejVhYXFzNXdraGF4ejBtNTR1OXNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif"/>
 
 ---
 
